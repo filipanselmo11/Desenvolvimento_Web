@@ -1,0 +1,17 @@
+
+legend{
+    text-align: center;
+    font-size: 70px;
+}
+
+label[for=nome] {
+    text-align: center;
+    font-size: 60px;
+}
+
+label[for=senha]{
+    text-align: center;
+    font-size: 60px;
+}
+
+

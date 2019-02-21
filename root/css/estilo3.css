@@ -1,0 +1,32 @@
+/*
+li:first-child {
+    color:red;
+}
+
+li:last-child {
+    color:blue;
+}*/
+
+li:nth-child(2n){
+color:yellow;
+}
+
+a:link {
+    background-color: chocolate;
+}
+
+p::first-letter{
+    font-style: italic;
+}
+
+p::second-letter{
+    font-style: italic;
+}
+
+a:before{
+    content: '[ ';
+}
+
+a::after{
+    content:' ]';
+}
