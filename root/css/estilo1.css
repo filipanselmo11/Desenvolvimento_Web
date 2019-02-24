@@ -327,3 +327,11 @@ header h1 img{
 .banner-destaque {
     position: relative;
 }
+
+.painel li:nth-child(n+3){
+    display: none;
+}
+
+.painel-aberto li:nth-child((n+3){
+    display: inline-block;
+}
