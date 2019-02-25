@@ -1,0 +1,26 @@
+legend{
+    text-align: center;
+    font-size: 24px;
+}
+
+label[for=nome]{
+    text-align: justify;
+    font-size: 22px;
+}
+
+label[for=idade]{
+    text-align: justify;
+    font-size: 22px;
+}
+
+
+label[for=senha]{
+    text-align: justify;
+    font-size: 22px;
+}
+
+button{
+    background-color: azure;
+    size: 23px;
+}
+

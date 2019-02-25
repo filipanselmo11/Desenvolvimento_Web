@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant-position: inherit;
+    background-color:darkorange;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*font-display: inherit;*/
+    font-size: 17px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant-position: inherit;
+    background-color: royalblue;
+}

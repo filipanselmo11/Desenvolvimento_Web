@@ -42,7 +42,7 @@ header {
 
 body {
     color: #333333;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
 /*
 .busca, .menu-departamentos {
@@ -334,4 +334,8 @@ header h1 img{
 
 .painel-aberto li:nth-child((n+3){
     display: inline-block;
+}
+
+.painel h2{
+    font-family: 'Bad Script', sans-serif;
 }
