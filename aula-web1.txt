@@ -1,0 +1,51 @@
+
+
+
+Aula 1 -  Jorge Brito
+
+Desenvolvedor WEB(PHP, JavaScript, Python)
+
+Desenvolvidor Desktop(C, Visual Basic, Basic, Java, Assembler)
+
+jorge.obrito@gmail.com
+
+(92) 98133-3590
+
+
+
+HTML
+
+
+www.online.manaus.br/curso/curso.rar
+
+html - menu<nav>, titulo, conteudo(descritivo)<h1>
+
+formulario - nome, telefone, data de nascimento e email.
+
+um botão para salvar
+
+executando o xampp graficamente
+
+sudo /opt/lampp/manager-linux-x64.run
+
+
+
+sudo /opt/lampp/lampp start
+sudo /opt/lampp/xampp start
+sudo /opt/lampp/xampp startapache - comando para executar o apache
+sudo /opt/lampp/xampp startftp - comando para executar o proftpd
+sudo /opt/lampp/xampp startmysql - comando para executar o MySql
+
+comando para parar o Xampp
+
+sudo /opt/lampp/xampp stop
+
+sudo /opt/lampp/xampp stopapache - comando para parar o apache
+sudo /opt/lampp/xampp stopproftpd - comando para parar o proftpd
+sudo /opt/lampp/xampp stopmysql - comando para parar o mysql
+
+
+
+
+sudo /opt/lampp/xampp restart - comando para reiniciar o xampp
+
